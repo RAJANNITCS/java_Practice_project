@@ -1,0 +1,310 @@
+System.out.println("Hello World !");
+System.out.println("Hello \\\\ World");
+Math.random()
+Math.random()
+Math.random()
+Math.random();
+Math.random();
+System.out.println(Math.random());
+Math.min(24,45);
+System.out.println(Math.min(24,45));
+System.out.println(Math.max(25,43));
+System.out.println(Math.min(num1,num2));
+System.out.println(Math.max(num1,num2));
+System.
+out.
+println(Math.random()
+);
+5 * 2
+System.out.printf("hello World").println();
+System.out.printf("%d",5*3).println();
+System.out.printf("%d",8*3).println();
+System.out.printf("%s",s1).println();
+System.out.printf("%s = %c = %d",name,ch,num).println();
+System.out.printf("%d +%d = %d",5,5,5+5).println();
+System.out.printf("print %s","rajan singh").println();
+for(int i = 1;i<=10;i++) {
+System.out.printf("%d X %d = %d",5,i,5*i).println();
+}
+for(int i =1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+num = 2;
+for(int i =1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+num = 6 ;
+for(int i =1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+System.out.printf("%d + %d +%d = %d",a,b,c,a+b+c).println();
+a = 6;
+b= 7
+c = 9;
+System.out.printf("%d + %d +%d = %d",a,b,c,a+b+c).println();
+a = 22;
+b = 23;
+c = 24;
+System.out.printf("%d + %d +%d = %d",a,b,c,a+b+c).println();
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+number2 = number1;
+numberOfGoal++;
+numberOfGoal++;
+numberOfGoal++;
+"test"
+"1"+2
+"3" + 2
+"rajan singh" + 23
+"rajan00131@"+"gmail.com"
+"rajan"+"00131"+"@"+"gamil"+"."+"com";
+System.out.println("rajan"+number);
+i = j;
+i == j
+i ==
+j
+i = j
+i = 15;
+i == j
+i+=5;
+number = number + 1;
+number++;
+number
+++number;
+number+=1;
+++number;
+++number;
+--number
+number--;
+number--
+number+= 1;
+number += 1;
+System.out.println("rajan"+number);
+System.out.println("rajan"+number);
+i = 5;
+System.out.println("Hello World !");
+System.out.println("Hello \\\\ World");
+Math.random()
+Math.random()
+Math.random()
+Math.random();
+Math.random();
+System.out.println(Math.random());
+Math.min(24,45);
+System.out.println(Math.min(24,45));
+System.out.println(Math.max(25,43));
+int num1 = 35;
+int num2 = 45;
+System.out.println(Math.min(num1,num2));
+System.out.println(Math.max(num1,num2));
+System.
+out.
+println(Math.random()
+);
+5 * 2
+System.out.printf("hello World").println();
+System.out.printf("%d",5*3).println();
+System.out.printf("%d",8*3).println();
+String s1 = "rajan singh";
+System.out.printf("%s",s1).println();
+System.out.printf("%s = %c = %d",name,ch,num).println();
+System.out.printf("%d +%d = %d",5,5,5+5).println();
+System.out.printf("print %s","rajan singh").println();
+for(int i = 1;i<=10;i++) {
+System.out.printf("%d X %d = %d",5,i,5*i).println();
+}
+int num = 1;
+for(int i =1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+num = 2;
+for(int i =1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+num = 6 ;
+for(int i =1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+System.out.printf("%d + %d +%d = %d",a,b,c,a+b+c).println();
+a = 6;
+b= 7
+c = 9;
+System.out.printf("%d + %d +%d = %d",a,b,c,a+b+c).println();
+a = 22;
+b = 23;
+c = 24;
+System.out.printf("%d + %d +%d = %d",a,b,c,a+b+c).println();
+int newVeriavle;
+int newVariable;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+newVariable++;
+int number1 = 9;
+int number2;
+number2 = number1;
+int testTest;
+int newVeriable;
+int noOfGoals;
+int score;
+int length;
+float f1 = 4.5f;
+float f2 = 3.4f;
+boolean isTrue = true;
+boolean isFalse = false;
+short numberOfGoal = 9;
+numberOfGoal++;
+numberOfGoal++;
+numberOfGoal++;
+long worldPoploations;
+double average;
+char ch = 'A';
+boolean isEven = true;
+boolean isOdd = false;
+boolean isItRaningToday = true;
+"test"
+String name = "rajan singh";
+"1"+2
+"3" + 2
+"rajan singh" + 23
+"rajan00131@"+"gmail.com"
+"rajan"+"00131"+"@"+"gamil"+"."+"com";
+System.out.println("rajan"+number);
+i = j;
+i == j
+i ==
+j
+i = j
+i = 15;
+i == j
+i+=5;
+number = number + 1;
+number++;
+number
+++number;
+number+=1;
+++number;
+++number;
+--number
+number--;
+number--
+number+= 1;
+number += 1;
+System.out.println("rajan"+number);
+System.out.println("rajan"+number);
+i = 5;
+int i = 5;
+ int j =4 ;
+6
+9
+$252 + $253
+if(true) {
+System.out.println("rajan singh");
+}
+boolean b1 = true;
+if(b1) {
+System.out.println("rajan singh");
+}
+b1 = false;
+if(b1) {
+System.out.println("rajan singh");
+}
+if(b1) {
+System.out.println("rajan singh");
+} else {
+System.out.println("mohan singh");
+}
+ if(i<5) {
+;
+
+
+}
+int a = 2;
+int b = 3;
+int c = 4;
+int d = 5;
+if((a+b) < (c+d)) {
+System.out.println("(a+b) is lessthan (c+d)");
+}
+int angle1 = 20;
+int angle2 = 80;
+int angle3 = 12;
+if(angle1+angle2+angle3 == 180) {
+System.out.println("angle is tarangle");
+}
+if(angle1+angle2+angle3 == 180) {
+System.out.println("the angle is trangle");
+} else {
+System.out.println("the angle is not trangle");
+}
+int number = 42;
+if(number % 2 == 0) {
+System.out.println("isEven");
+} else {
+System.out.println("isOdd");
+}
+number = 43;
+if(number % 2 == 0) {
+System.out.println("isEven");
+} else {
+System.out.println("isOdd");
+}
+i = 5;
+i == 6;
+if(i == 5);
+for(int i=1;i<=10;i++) {
+System.out.println(i);
+}
+for(int i=1;i<40;i++) {
+if(i % 2 == 0) {
+System.out.println(i);
+} else {
+System.out.println("rajan");
+}
+}
+void fun(int num) {
+for(int i= 1;i<=10;i++) {
+System.out.printf("%d x %d = %d",num,i,num*i).println();
+}
+}
+fun(5);
+fun(2)
+fun(9);
+fun(4444);
+class Country {
+}
+Country usa = new Country();
+Planet marce = new Planet();
+class Planet {
+void revolve() {
+System.out.println("revolve");
+}
+}
+Planet earth = new Planet();
+earth.revolve();
+class Dog {
+void fun() {
+System.out.println("bho bho");
+}
+}
+Dog d1 = new Dog();
+d1.fun();
+class Counter {
+void fun() {
+System.out.println("comming soon");
+}
+}
+Counter india = new Counter();
+india.fun();

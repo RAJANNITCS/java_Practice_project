@@ -1,0 +1,10 @@
+ArrayList arrayList = new ArrayList();
+arrayList.add("rajan");
+arrayList.add("cat");
+arrayList
+arrayList.remove("cat");
+ArrayList<String> items = new ArrayList<>();
+items.add("rajan");
+items.add("Mohan");
+items.add("ravi");
+items.add("manish");

@@ -1,0 +1,36 @@
+int [] marks = {2,3,4,5,6};
+int [] marks1 = {};
+marks1 = marks
+marks1
+marks
+BigDecimal b1 = new BigDecimal("123");
+sum(1,2);
+void print(int... values) {
+System.out.println(Arrays.toString(values));
+}
+print(2,3,4,5);
+int sum(int i,int j) {
+return i+j;
+}
+sum(2,3)
+sum(2,3,4,5)
+sum(1,2,3,4,5,6);
+int sum(int... value) {
+int sum = 0;
+for(int i: value) {
+sum += i;
+} 
+return sum;
+}
+sum(12,3,4,5,6);
+void print(String name,int... value) {
+}
+Person [] rajan = new Person[5];
+Person[] persons = new Person[5];
+persons[1] = new Person();
+persons
+class Person {
+}
+person[0] = new Person();
+person
+Person[] person = {new Person(),new Person()};

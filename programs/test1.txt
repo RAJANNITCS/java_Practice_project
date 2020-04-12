@@ -1,0 +1,50 @@
+Byte.SIZE
+Byte.MAX_VALUE
+Byte.MIN_VALUE
+Byte.MAX_VALUE
+Short.SIZE
+Short.BYTES
+Integer.BYTES
+Integer.MAX_VALUE
+Long.MAX_VALUE
+Double.MAX_VALUE
+long l1 = 50000000000L;
+i = (int)l1
+int eight = 010;
+int sixteen = 0x10;
+int fifteen  = 0xF;
+int big = 0XBBAACC;
+j = (short) i
+j
+int i1 = j;
+i++
+i++
+i++
+++i
+++i
+j
+i
+int j = --i;
+j
+i
+34.5
+34.56789
+double d1 = 2.2;
+f1 = (float) d1
+float f1 = 2.3f;
+i = (int) f1
+34.568888888 + 34.333333
+BigDecimal b1= new BigDecimal("34.56789876");
+BigDecimal b2= new BigDecimal("34.2234");
+b1.add(b2)
+BigDecimal b3 = b1.add(b2);
+b1.subtract(b2)
+BigDecimal num1 = new BigDecimal("24.333");
+BigDecimal num2 = new BigDecimal("23.444");
+num1.add(num2);
+num1.subtract(num2);
+BigDecimal number = new BigDecimal("11.5");
+BigDecimal number1 = new BigDecimal("23.453444");
+int i = 5;
+number.add(new BigDecimal(i))
+number.multiply(new BigDecimal(i));

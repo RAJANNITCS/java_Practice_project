@@ -1,0 +1,11 @@
+animal.bark();
+abstract class AbstractAnimal {
+abstract public void bark();
+}
+public class Animal extends AbstractAnimal {
+public void bark() {
+System.out.println("test");
+}
+}
+Animal animal = new Animal();
+animal.bark();

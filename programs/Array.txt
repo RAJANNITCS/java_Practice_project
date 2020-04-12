@@ -1,0 +1,55 @@
+int marks1 = 90;
+int marks2 = 75;
+int marks3 = 60;
+int marks4 = 90;
+for(int mark:marks) {
+System.out.println(mark);
+}
+for(int mark:marks) {
+sum +=mark;
+}
+sum
+for(int mark:marks) {
+}
+int sum = 0;
+for(int i:marks) {
+sum+=i;
+}
+sum
+marks.length
+int []maks = new int[10];
+int num = 10;
+marks[1]
+for(int i =0;i<marks.length;i++) {
+System.out.println(marks[i]);
+}
+for(int i:marks) {
+System.out.println(i);
+}
+marks.length
+marks.length;
+for(int i=0;i<marks.length;i++) {
+System.out.println(marks[i]);
+}
+for(int mark:marks) {
+System.out.println(mark);
+}
+marks.length;
+class Persion{
+}
+Persion [] rajan = new Persion[10];
+marks[0] = 99;
+System.out.println(marks);
+System.out.println(Arrays.toString(marks));
+System.out.println(marks.toString());
+System.out.println(marks);
+System.out.println(marks.toString());
+System.out.println(Arrays.toString(marks));
+System.out.println(Arrays.toString(marks));
+int [] marks = {100,95,99,96,100};
+for(int i= 0;i<marks.length;i++) {
+System.out.println(marks[i]);
+}
+for(int i:marks ){
+System.out.println(i);
+}
